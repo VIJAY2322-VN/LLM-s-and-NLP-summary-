@@ -1,0 +1,14 @@
+
+---
+
+# 📄 requirements.txt
+
+```text id="85hq44"
+transformers
+torch
+nltk
+pandas
+numpy
+scikit-learn
+flask
+streamlit
