@@ -7,6 +7,7 @@ An advanced Artificial Intelligence and NLP toolkit implementing:
 - Text Summarization
 - NLP Processing
 - Large Language Models (LLMs)
+- recognization models 
 
 ---
 
